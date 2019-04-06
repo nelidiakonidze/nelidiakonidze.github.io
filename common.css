@@ -1,0 +1,44 @@
+.header {
+  left: 20%;
+  right: 70%;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  background-size:cover;
+  position: relative;
+}
+
+.footer-copyright {
+  color: whitesmoke;
+  clear: both;
+  text-align: center;
+  justify-content: flex-end;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.linkfoot {
+  color: #fff;
+
+}
+.linkfoot:hover {
+  color: goldenrod;
+}
+
+
+.navbar {
+  background-image:none;
+  font-family: "vidaloka";
+  align-content: center;
+  background-color: transparent !important;
+
+}
+
+.navbar .navbar-expand-lg {
+  color: #FFFFFF;
+}

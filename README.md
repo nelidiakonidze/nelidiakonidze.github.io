@@ -1,5 +1,4 @@
-# Welcome nice people to my github 
+# Berlin Blog Project
 
-To see my project visit this link: https://nelidiakonidze.github.io/ 
+This is my first blog, check the files to get to know more about it!
 
-That made me so happy! Thank you!

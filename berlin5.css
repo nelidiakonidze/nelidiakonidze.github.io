@@ -1,0 +1,53 @@
+
+
+body {
+  background-image: url(Photos/tw3.jpeg);
+}
+
+.container {
+font-family:"vidaloka";
+color: white;
+display: flex;
+justify-content: center;
+}
+.mt-4 {
+  font-size: 70px;
+  display: flex;
+  justify-content: center;
+}
+.lead {
+font-size: 35px;
+  display: flex;
+  justify-content: center;
+  color: white;
+
+}
+
+
+.lead2{
+font-size: 35px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding-left: 12px;
+  
+}
+.posted {
+display: flex;
+justify-content: center;
+}
+.lead2:hover {
+color: goldenrod;
+}
+
+.p {
+font-size: 8px;
+}
+.blockquote-footer {
+color: burlywood;
+}
+
+.media-body {
+font-size: 18px;
+
+}

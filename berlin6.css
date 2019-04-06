@@ -1,0 +1,112 @@
+.container1 {
+  text-align: center;
+  margin-top: 19%;
+}
+
+body {
+    background-image: url(Photos/contactphoto.jpg);
+    background-size: cover;
+    margin-bottom: 700px;
+    width: 100%;
+    height: 100%;
+}
+.navbar {
+  background-image:none;
+  font-family: "vidaloka";
+}
+
+
+.tit1 {
+    font-family: 'Frank Ruhl Libre 700';
+    font-size: 120px;
+    color: whitesmoke;
+
+}
+
+.tit2 {
+    font-family: 'Frank Ruhl Libre 400';
+    font-size: 50px;
+    color: white;
+}
+.navbar-toggler {
+    position: relative;
+
+}
+.btn-2 {
+    letter-spacing: 0;
+}
+
+.btn-2:hover,
+.btn-2:active {
+  letter-spacing: 5px;
+}
+
+.btn-2:after,
+.btn-2:before {
+  backface-visibility: hidden;
+  border: 1px solid rgba(#fff, 0);
+  bottom: 0px;
+  content: " ";
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  transition: all 280ms ease-in-out;
+  width: 0;
+}
+.berlinbutton {
+    font-family: "Nanum Myeongjo 700";
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer-copyright {
+  color: whitesmoke;
+  clear: both;
+  text-align: center;
+  justify-content: flex-end;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.card {
+  position:relative;
+  margin-right: 30%;
+  margin-left: 30%;
+  margin-bottom: 30px;
+  margin-top: 130px;
+  background-color: transparent;
+  font-family: 'Frank Ruhl Libre 700';
+  font-size: 18px;
+  border-color: transparent;
+  color:black;
+
+  
+}
+.card-header {
+  background-color: transparent;
+  border-color: transparent;
+  font-size: 60px;
+  color: white;
+}
+.btn{
+  background-color: transparent;
+  border-color: azure;
+  font-family: 'Frank Ruhl Libre 700';
+  font-size: 20px;
+  color:white;
+}
+
+.btn:hover {
+  display: block;
+  background-color: lightslategray;
+  border-color: transparent;
+  position: relative;
+  transition: all 280ms ease-in-out;
+ 
+}
+.navbarlight {
+  color: #FFFFFF !important;
+}

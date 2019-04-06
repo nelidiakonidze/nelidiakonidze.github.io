@@ -1,0 +1,150 @@
+body {
+    background-image: url(Photos/tvtower.jpg);
+   }
+
+.container1 {
+    display: grid;
+    display: grid;
+    grid-template-columns: 0.4fr 0.3fr 0.3fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 15px;
+    background-size: cover;
+
+.navbar {
+      background-image:none;
+      font-family: "vidaloka";
+    }
+    
+}
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    font-family: 'Frank Ruhl Libre 700';
+    font-size: 120px;
+    color: whitesmoke;
+
+  }
+
+.grid-boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+  .tit1 {
+    font-family: 'Frank Ruhl Libre 700';
+    font-size: 120px;
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+.tit2 {
+    font-family: 'Frank Ruhl Libre 400';
+    font-size: 50px;
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
+
+.museum {
+  padding: 5px;
+  width: 350px;
+  height: 300px;
+  
+}
+
+.parks {
+    padding: 5px;
+    width: 350px;
+    height: 300px;
+  }
+
+
+.beer {
+    padding: 5px;
+    width: 350px;
+    height: 300px;
+  }
+
+.navbar-toggler {
+    position: relative;
+
+}
+.beer111 {
+    font-family: 'Frank Ruhl Libre 700';
+    font-size: 40px;
+    color: peru;
+    justify-content: center;
+    letter-spacing: 0;
+    border: none;
+    background-color:none;
+}
+
+
+.beer111:hover,
+.beer111:active {
+  letter-spacing: 5px;
+}
+
+.beer111:after,
+.beer111:before {
+  backface-visibility: hidden;
+  bottom: 0px;
+  content: " ";
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  transition: all 280ms ease-in-out;
+  width: 0;
+}
+
+.beer111:hover:after,
+.beer111:hover:before {
+  backface-visibility: hidden;
+  transition: width 350ms ease-in-out;
+  width: 70%;
+}
+
+.beer111:hover:before {
+  bottom: auto;
+  top: 0;
+  width: 70%;
+}
+
+.grid-boxes {
+  justify-content: center;
+  padding: 50px;
+
+}
+
+.card {
+  background-color:rgb(245, 245, 245);
+  font-family: "vidaloka";
+}
+
+.btn{
+  background-color: white;
+  border-color: white;
+  color: black;
+  font-family: "vidaloka";
+}
+.btn:hover {
+  background-color: grey;
+  border-color: grey;
+}
