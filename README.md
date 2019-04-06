@@ -1,4 +1,4 @@
 # Berlin Blog Project
 
-This is my first blog, check the files to get to know more about it!
+This is my first blog, check it out: https://nelidiakonidze.github.io/ !!!
 
